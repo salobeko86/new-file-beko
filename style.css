@@ -1,0 +1,42 @@
+h3{
+	display: inline-block;
+	margin-left: 10px;
+}
+ul,li{
+	list-style: none;
+	font-size: 15px;
+	display: inline-block;
+	padding-left: 60px ;
+}
+.relative{
+	position:relative;
+	background: white;
+} 
+.absolute{
+	position: absolute;
+    height: 600px;
+	top: 10px;
+	font-size: 20px;
+	color: white;
+	right: 350px;
+}
+h1{
+	font-size: 70px;
+	width: 540px;
+	margin-left: 150px;
+}
+p{
+	margin-left: 150px;
+	width: 700px;
+}
+h2{
+	position: absolute;
+    margin-left: 150px;
+    bottom: 10px;
+}
+span{
+	position: absolute;
+	right: 10px;
+	bottom: 20px;
+	font-size: 0;
+}
